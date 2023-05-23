@@ -14,6 +14,12 @@ const Layout=()=>{
                    <Link to="/users">Users</Link> 
                 </ListItem>
                 <ListItem>
+                   <Link to="/userAlbum">Albums</Link> 
+                </ListItem>
+                <ListItem>
+                   <Link to="/userAlbumPhotos">Photos</Link> 
+                </ListItem>
+                <ListItem>
                    <Link to="/about">About</Link> 
                 </ListItem>
             </List>
